@@ -57,13 +57,4 @@
 
 ---
 
-### 📫 Let's Connect
-
-If you're into tech, design, or building cool stuff — I’d love to connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashhad-ahmed-4a5933345/)
-- 📬 syedahmed268y@gmail.com
-
----
-
 > _"The best way to predict the future is to create it." – Alan Kay_
