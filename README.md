@@ -11,7 +11,7 @@
 
 ### 🧩 About Me
 
-- 🚀 I'm a frontend developer building fast, beautiful apps using **Flutter**, **React** and **Node.js**.
+- 🚀 I'm a frontend developer building fast, beautiful apps using **Flutter**, **React** and **Tailwind CSS**.
 - 🔍 Exploring **TypeScript**, **MySQL**, **Node.js** and scalable backend architectures.
 - 🤝 Open to freelance work, collaborations, and open-source contributions.
 
